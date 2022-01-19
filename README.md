@@ -1,2 +1,2 @@
 # Baekjoon
- Baekjoon_solved
+ baekjoon_solved
